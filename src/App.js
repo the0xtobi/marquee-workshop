@@ -4,10 +4,10 @@ function App() {
   return (
     <div className="marquee">
       <div className="marquee__inner" >
-        <span>QUALITY *</span>
-        <span>QUALITY *</span>
-        <span>QUALITY *</span>
-        <span>QUALITY *</span>
+        <span>COOKING *</span>
+        <span>COOKING *</span>
+        <span>COOKING *</span>
+        <span>COOKING *</span>
       </div>
     </div>
   );
